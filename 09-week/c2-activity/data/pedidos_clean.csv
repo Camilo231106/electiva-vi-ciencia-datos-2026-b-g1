@@ -1,0 +1,396 @@
+order_id,order_date,customer_id,customer_name,city,email,product_id,product_name,category,unit_price,quantity,payment_method,total,month
+52,2026-02-11,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,nequi,9500.0,2026-02
+32,2026-02-13,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,4,tarjeta,38000.0,2026-02
+99,2026-01-08,6,Andrés Silva,Neiva,andres.silva@correo.com,105,Servomotor SG90,actuadores,12500.0,1,efectivo,12500.0,2026-01
+293,2026-01-11,6,Andrés Silva,Neiva,andres.silva@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,nequi,33000.0,2026-01
+301,2026-06-29,1,Laura Gómez,Neiva,laura.gomez@correo.com,105,Servomotor SG90,actuadores,12500.0,2,nequi,25000.0,2026-06
+389,2026-07-26,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,transferencia,156000.0,2026-07
+271,2026-04-07,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,2,transferencia,76000.0,2026-04
+400,2026-06-27,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,5,efectivo,190000.0,2026-06
+140,2026-02-16,3,Ana Rojas,Garzón,ana.rojas@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,4,efectivo,208000.0,2026-02
+379,2026-01-28,5,María Díaz,La Plata,maria.diaz@correo.com,106,Sensor TCRT5000,sensores,4500.0,4,efectivo,18000.0,2026-01
+57,2026-08-19,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,nequi,156000.0,2026-08
+66,2026-02-16,5,María Díaz,La Plata,maria.diaz@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,5,tarjeta,190000.0,2026-02
+336,2026-04-04,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,nequi,19000.0,2026-04
+304,2026-02-07,5,María Díaz,La Plata,maria.diaz@correo.com,105,Servomotor SG90,actuadores,12500.0,1,nequi,12500.0,2026-02
+142,2026-04-08,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,106,Sensor TCRT5000,sensores,4500.0,3,tarjeta,13500.0,2026-04
+31,2026-01-23,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,105,Servomotor SG90,actuadores,12500.0,4,desconocido,50000.0,2026-01
+61,2026-03-02,4,Juan Torres,Neiva,juan.torres@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,2,nequi,22000.0,2026-03
+203,2026-01-30,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,105,Servomotor SG90,actuadores,12500.0,5,tarjeta,62500.0,2026-01
+121,2026-07-21,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,104,Driver L298N,actuadores,14000.0,4,efectivo,56000.0,2026-07
+126,2026-05-14,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,106,Sensor TCRT5000,sensores,4500.0,5,nequi,22500.0,2026-05
+241,2026-07-18,5,María Díaz,La Plata,maria.diaz@correo.com,105,Servomotor SG90,actuadores,12500.0,2,desconocido,25000.0,2026-07
+383,2026-04-04,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,2,tarjeta,76000.0,2026-04
+85,2026-05-30,8,Diego Mora,Garzón,diego.mora@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,3,transferencia,28500.0,2026-05
+373,2026-03-09,6,Andrés Silva,Neiva,andres.silva@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,5,transferencia,40000.0,2026-03
+282,2026-05-02,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,104,Driver L298N,actuadores,14000.0,2,nequi,28000.0,2026-05
+278,2026-03-10,6,Andrés Silva,Neiva,andres.silva@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,1,efectivo,8000.0,2026-03
+297,2026-01-11,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,transferencia,114000.0,2026-01
+164,2026-03-03,8,Diego Mora,Garzón,diego.mora@correo.com,106,Sensor TCRT5000,sensores,4500.0,3,efectivo,13500.0,2026-03
+244,2026-02-07,5,María Díaz,La Plata,maria.diaz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,5,nequi,47500.0,2026-02
+343,2026-04-29,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,transferencia,114000.0,2026-04
+308,2026-04-24,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,3,nequi,24000.0,2026-04
+391,2026-04-24,8,Diego Mora,Garzón,diego.mora@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,5,transferencia,40000.0,2026-04
+386,2026-03-08,6,Andrés Silva,Neiva,andres.silva@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,1,tarjeta,11000.0,2026-03
+3,2026-07-21,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,1,transferencia,38000.0,2026-07
+119,2026-08-22,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,efectivo,9500.0,2026-08
+362,2026-02-05,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,2,nequi,76000.0,2026-02
+303,2026-03-11,8,Diego Mora,Garzón,diego.mora@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,1,transferencia,52000.0,2026-03
+368,2026-08-05,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,106,Sensor TCRT5000,sensores,4500.0,4,desconocido,18000.0,2026-08
+250,2026-06-30,4,Juan Torres,Neiva,juan.torres@correo.com,106,Sensor TCRT5000,sensores,4500.0,2,efectivo,9000.0,2026-06
+239,2026-03-13,4,Juan Torres,Neiva,juan.torres@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,1,transferencia,38000.0,2026-03
+53,2026-03-13,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,4,nequi,38000.0,2026-03
+146,2026-07-23,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,104,Driver L298N,actuadores,14000.0,1,efectivo,14000.0,2026-07
+169,2026-07-25,3,Ana Rojas,Garzón,ana.rojas@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,1,efectivo,8000.0,2026-07
+27,2026-03-04,4,Juan Torres,Neiva,juan.torres@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,4,efectivo,44000.0,2026-03
+353,2026-01-31,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,1,transferencia,11000.0,2026-01
+171,2026-03-26,1,Laura Gómez,Neiva,laura.gomez@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,efectivo,19000.0,2026-03
+81,2026-07-25,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,3,nequi,24000.0,2026-07
+322,2026-07-12,5,María Díaz,La Plata,maria.diaz@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,4,efectivo,32000.0,2026-07
+165,2026-08-05,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,desconocido,33000.0,2026-08
+205,2026-04-10,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,1,efectivo,8000.0,2026-04
+166,2026-05-12,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,4,tarjeta,208000.0,2026-05
+213,2026-03-28,6,Andrés Silva,Neiva,andres.silva@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,4,tarjeta,152000.0,2026-03
+267,2026-06-22,1,Laura Gómez,Neiva,laura.gomez@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,nequi,156000.0,2026-06
+306,2026-01-03,5,María Díaz,La Plata,maria.diaz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,4,nequi,38000.0,2026-01
+15,2026-05-02,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,104,Driver L298N,actuadores,14000.0,2,tarjeta,28000.0,2026-05
+194,2026-06-14,3,Ana Rojas,Garzón,ana.rojas@correo.com,105,Servomotor SG90,actuadores,12500.0,2,transferencia,25000.0,2026-06
+274,2026-03-15,8,Diego Mora,Garzón,diego.mora@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,2,efectivo,104000.0,2026-03
+334,2026-02-27,3,Ana Rojas,Garzón,ana.rojas@correo.com,105,Servomotor SG90,actuadores,12500.0,4,transferencia,50000.0,2026-02
+148,2026-03-04,4,Juan Torres,Neiva,juan.torres@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,4,efectivo,152000.0,2026-03
+4,2026-04-07,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,106,Sensor TCRT5000,sensores,4500.0,3,tarjeta,13500.0,2026-04
+236,2026-02-12,5,María Díaz,La Plata,maria.diaz@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,4,efectivo,208000.0,2026-02
+116,2026-04-18,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,105,Servomotor SG90,actuadores,12500.0,3,efectivo,37500.0,2026-04
+156,2026-08-20,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,5,efectivo,55000.0,2026-08
+215,2026-06-04,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,106,Sensor TCRT5000,sensores,4500.0,3,nequi,13500.0,2026-06
+115,2026-05-23,5,María Díaz,La Plata,maria.diaz@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,3,nequi,24000.0,2026-05
+97,2026-06-06,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,104,Driver L298N,actuadores,14000.0,5,transferencia,70000.0,2026-06
+217,2026-07-06,6,Andrés Silva,Neiva,andres.silva@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,3,transferencia,28500.0,2026-07
+394,2026-06-04,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,105,Servomotor SG90,actuadores,12500.0,4,tarjeta,50000.0,2026-06
+112,2026-01-24,1,Laura Gómez,Neiva,laura.gomez@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,4,nequi,208000.0,2026-01
+178,2026-07-26,8,Diego Mora,Garzón,diego.mora@correo.com,104,Driver L298N,actuadores,14000.0,3,nequi,42000.0,2026-07
+347,2026-06-08,6,Andrés Silva,Neiva,andres.silva@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,3,efectivo,24000.0,2026-06
+29,2026-07-14,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,transferencia,156000.0,2026-07
+42,2026-05-12,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,105,Servomotor SG90,actuadores,12500.0,3,transferencia,37500.0,2026-05
+208,2026-07-21,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,1,nequi,11000.0,2026-07
+23,2026-08-05,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,nequi,114000.0,2026-08
+254,2026-05-28,1,Laura Gómez,Neiva,laura.gomez@correo.com,104,Driver L298N,actuadores,14000.0,3,tarjeta,42000.0,2026-05
+33,2026-02-12,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,transferencia,19000.0,2026-02
+285,2026-02-12,4,Juan Torres,Neiva,juan.torres@correo.com,104,Driver L298N,actuadores,14000.0,3,nequi,42000.0,2026-02
+259,2026-06-24,8,Diego Mora,Garzón,diego.mora@correo.com,105,Servomotor SG90,actuadores,12500.0,1,nequi,12500.0,2026-06
+58,2026-07-21,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,106,Sensor TCRT5000,sensores,4500.0,4,efectivo,18000.0,2026-07
+63,2026-08-11,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,5,transferencia,260000.0,2026-08
+182,2026-03-12,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,3,tarjeta,28500.0,2026-03
+173,2026-05-01,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,2,transferencia,22000.0,2026-05
+160,2026-07-03,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,106,Sensor TCRT5000,sensores,4500.0,1,transferencia,4500.0,2026-07
+6,2026-06-18,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,transferencia,33000.0,2026-06
+397,2026-05-31,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,105,Servomotor SG90,actuadores,12500.0,5,nequi,62500.0,2026-05
+149,2026-02-04,6,Andrés Silva,Neiva,andres.silva@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,efectivo,156000.0,2026-02
+90,2026-08-09,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,2,nequi,22000.0,2026-08
+289,2026-03-20,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,tarjeta,19000.0,2026-03
+390,2026-03-29,1,Laura Gómez,Neiva,laura.gomez@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,1,transferencia,8000.0,2026-03
+307,2026-07-21,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,5,efectivo,190000.0,2026-07
+102,2026-01-11,5,María Díaz,La Plata,maria.diaz@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,4,transferencia,32000.0,2026-01
+195,2026-04-20,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,105,Servomotor SG90,actuadores,12500.0,5,transferencia,62500.0,2026-04
+262,2026-08-01,4,Juan Torres,Neiva,juan.torres@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,transferencia,9500.0,2026-08
+224,2026-02-17,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,transferencia,114000.0,2026-02
+382,2026-07-20,3,Ana Rojas,Garzón,ana.rojas@correo.com,106,Sensor TCRT5000,sensores,4500.0,4,efectivo,18000.0,2026-07
+14,2026-07-07,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,2,transferencia,22000.0,2026-07
+355,2026-04-04,4,Juan Torres,Neiva,juan.torres@correo.com,105,Servomotor SG90,actuadores,12500.0,2,transferencia,25000.0,2026-04
+340,2026-05-02,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,105,Servomotor SG90,actuadores,12500.0,3,tarjeta,37500.0,2026-05
+91,2026-07-22,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,4,tarjeta,32000.0,2026-07
+260,2026-06-17,5,María Díaz,La Plata,maria.diaz@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,2,tarjeta,104000.0,2026-06
+60,2026-06-02,6,Andrés Silva,Neiva,andres.silva@correo.com,104,Driver L298N,actuadores,14000.0,4,tarjeta,56000.0,2026-06
+158,2026-05-10,3,Ana Rojas,Garzón,ana.rojas@correo.com,105,Servomotor SG90,actuadores,12500.0,3,transferencia,37500.0,2026-05
+75,2026-03-18,3,Ana Rojas,Garzón,ana.rojas@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,4,nequi,32000.0,2026-03
+80,2026-02-13,6,Andrés Silva,Neiva,andres.silva@correo.com,104,Driver L298N,actuadores,14000.0,4,transferencia,56000.0,2026-02
+242,2026-01-22,3,Ana Rojas,Garzón,ana.rojas@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,1,desconocido,8000.0,2026-01
+139,2026-02-28,4,Juan Torres,Neiva,juan.torres@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,tarjeta,114000.0,2026-02
+82,2026-04-28,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,nequi,33000.0,2026-04
+133,2026-04-12,6,Andrés Silva,Neiva,andres.silva@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,1,nequi,11000.0,2026-04
+51,2026-03-18,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,tarjeta,33000.0,2026-03
+266,2026-05-20,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,2,desconocido,16000.0,2026-05
+320,2026-08-24,3,Ana Rojas,Garzón,ana.rojas@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,1,nequi,38000.0,2026-08
+256,2026-06-29,4,Juan Torres,Neiva,juan.torres@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,3,nequi,24000.0,2026-06
+359,2026-03-17,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,transferencia,19000.0,2026-03
+130,2026-01-16,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,transferencia,156000.0,2026-01
+237,2026-02-14,1,Laura Gómez,Neiva,laura.gomez@correo.com,104,Driver L298N,actuadores,14000.0,1,transferencia,14000.0,2026-02
+54,2026-07-27,6,Andrés Silva,Neiva,andres.silva@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,1,nequi,38000.0,2026-07
+163,2026-05-08,4,Juan Torres,Neiva,juan.torres@correo.com,106,Sensor TCRT5000,sensores,4500.0,4,transferencia,18000.0,2026-05
+110,2026-06-17,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,3,nequi,28500.0,2026-06
+381,2026-03-20,5,María Díaz,La Plata,maria.diaz@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,4,transferencia,208000.0,2026-03
+270,2026-06-19,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,105,Servomotor SG90,actuadores,12500.0,5,efectivo,62500.0,2026-06
+364,2026-05-30,8,Diego Mora,Garzón,diego.mora@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,1,tarjeta,11000.0,2026-05
+201,2026-07-18,4,Juan Torres,Neiva,juan.torres@correo.com,106,Sensor TCRT5000,sensores,4500.0,1,nequi,4500.0,2026-07
+360,2026-04-03,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,5,transferencia,190000.0,2026-04
+67,2026-05-24,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,3,tarjeta,24000.0,2026-05
+348,2026-04-04,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,4,transferencia,32000.0,2026-04
+317,2026-08-08,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,105,Servomotor SG90,actuadores,12500.0,5,transferencia,62500.0,2026-08
+298,2026-08-26,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,5,efectivo,190000.0,2026-08
+100,2026-04-14,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,efectivo,33000.0,2026-04
+16,2026-06-07,6,Andrés Silva,Neiva,andres.silva@correo.com,106,Sensor TCRT5000,sensores,4500.0,1,transferencia,4500.0,2026-06
+229,2026-01-26,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,2,transferencia,16000.0,2026-01
+228,2026-02-02,3,Ana Rojas,Garzón,ana.rojas@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,2,desconocido,104000.0,2026-02
+87,2026-08-28,6,Andrés Silva,Neiva,andres.silva@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,efectivo,33000.0,2026-08
+38,2026-03-10,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,104,Driver L298N,actuadores,14000.0,1,transferencia,14000.0,2026-03
+376,2026-08-12,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,106,Sensor TCRT5000,sensores,4500.0,3,efectivo,13500.0,2026-08
+323,2026-08-21,4,Juan Torres,Neiva,juan.torres@correo.com,104,Driver L298N,actuadores,14000.0,2,nequi,28000.0,2026-08
+74,2026-06-15,5,María Díaz,La Plata,maria.diaz@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,5,desconocido,40000.0,2026-06
+255,2026-08-25,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,106,Sensor TCRT5000,sensores,4500.0,5,efectivo,22500.0,2026-08
+105,2026-07-25,6,Andrés Silva,Neiva,andres.silva@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,1,transferencia,38000.0,2026-07
+369,2026-05-22,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,nequi,9500.0,2026-05
+175,2026-02-21,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,106,Sensor TCRT5000,sensores,4500.0,3,efectivo,13500.0,2026-02
+17,2026-05-16,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,106,Sensor TCRT5000,sensores,4500.0,4,efectivo,18000.0,2026-05
+189,2026-08-08,8,Diego Mora,Garzón,diego.mora@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,tarjeta,114000.0,2026-08
+89,2026-01-02,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,105,Servomotor SG90,actuadores,12500.0,4,nequi,50000.0,2026-01
+240,2026-03-20,1,Laura Gómez,Neiva,laura.gomez@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,nequi,33000.0,2026-03
+141,2026-03-06,1,Laura Gómez,Neiva,laura.gomez@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,5,nequi,47500.0,2026-03
+103,2026-06-09,1,Laura Gómez,Neiva,laura.gomez@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,nequi,9500.0,2026-06
+188,2026-04-23,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,2,efectivo,22000.0,2026-04
+345,2026-08-26,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,106,Sensor TCRT5000,sensores,4500.0,2,efectivo,9000.0,2026-08
+71,2026-04-29,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,tarjeta,19000.0,2026-04
+134,2026-08-11,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,104,Driver L298N,actuadores,14000.0,4,tarjeta,56000.0,2026-08
+223,2026-03-15,4,Juan Torres,Neiva,juan.torres@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,1,transferencia,38000.0,2026-03
+79,2026-03-23,8,Diego Mora,Garzón,diego.mora@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,4,efectivo,152000.0,2026-03
+257,2026-02-11,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,106,Sensor TCRT5000,sensores,4500.0,3,efectivo,13500.0,2026-02
+309,2026-03-14,6,Andrés Silva,Neiva,andres.silva@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,5,tarjeta,190000.0,2026-03
+372,2026-05-27,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,106,Sensor TCRT5000,sensores,4500.0,1,desconocido,4500.0,2026-05
+222,2026-03-23,1,Laura Gómez,Neiva,laura.gomez@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,4,tarjeta,152000.0,2026-03
+19,2026-01-09,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,5,efectivo,55000.0,2026-01
+325,2026-03-15,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,5,efectivo,47500.0,2026-03
+21,2026-04-09,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,106,Sensor TCRT5000,sensores,4500.0,2,tarjeta,9000.0,2026-04
+56,2026-02-01,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,2,transferencia,104000.0,2026-02
+352,2026-05-04,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,tarjeta,114000.0,2026-05
+358,2026-06-23,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,5,nequi,55000.0,2026-06
+302,2026-05-08,6,Andrés Silva,Neiva,andres.silva@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,efectivo,19000.0,2026-05
+35,2026-04-11,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,1,tarjeta,8000.0,2026-04
+174,2026-05-15,5,María Díaz,La Plata,maria.diaz@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,2,nequi,76000.0,2026-05
+321,2026-06-10,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,5,nequi,260000.0,2026-06
+246,2026-02-04,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,2,efectivo,16000.0,2026-02
+98,2026-03-07,6,Andrés Silva,Neiva,andres.silva@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,tarjeta,9500.0,2026-03
+335,2026-08-12,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,efectivo,114000.0,2026-08
+155,2026-06-02,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,106,Sensor TCRT5000,sensores,4500.0,2,tarjeta,9000.0,2026-06
+123,2026-03-26,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,105,Servomotor SG90,actuadores,12500.0,3,nequi,37500.0,2026-03
+114,2026-04-09,6,Andrés Silva,Neiva,andres.silva@correo.com,106,Sensor TCRT5000,sensores,4500.0,4,tarjeta,18000.0,2026-04
+221,2026-01-03,5,María Díaz,La Plata,maria.diaz@correo.com,104,Driver L298N,actuadores,14000.0,3,efectivo,42000.0,2026-01
+279,2026-07-30,5,María Díaz,La Plata,maria.diaz@correo.com,105,Servomotor SG90,actuadores,12500.0,4,tarjeta,50000.0,2026-07
+109,2026-07-16,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,106,Sensor TCRT5000,sensores,4500.0,3,tarjeta,13500.0,2026-07
+95,2026-05-14,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,1,nequi,8000.0,2026-05
+388,2026-02-14,3,Ana Rojas,Garzón,ana.rojas@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,1,efectivo,52000.0,2026-02
+264,2026-07-03,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,2,nequi,104000.0,2026-07
+198,2026-01-28,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,efectivo,33000.0,2026-01
+92,2026-06-24,6,Andrés Silva,Neiva,andres.silva@correo.com,106,Sensor TCRT5000,sensores,4500.0,2,nequi,9000.0,2026-06
+329,2026-08-23,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,105,Servomotor SG90,actuadores,12500.0,5,nequi,62500.0,2026-08
+356,2026-07-03,6,Andrés Silva,Neiva,andres.silva@correo.com,106,Sensor TCRT5000,sensores,4500.0,5,efectivo,22500.0,2026-07
+243,2026-08-19,5,María Díaz,La Plata,maria.diaz@correo.com,105,Servomotor SG90,actuadores,12500.0,5,tarjeta,62500.0,2026-08
+354,2026-03-28,8,Diego Mora,Garzón,diego.mora@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,5,transferencia,55000.0,2026-03
+207,2026-02-15,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,1,tarjeta,11000.0,2026-02
+25,2026-08-19,8,Diego Mora,Garzón,diego.mora@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,2,transferencia,104000.0,2026-08
+272,2026-01-06,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,2,transferencia,16000.0,2026-01
+294,2026-03-20,8,Diego Mora,Garzón,diego.mora@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,transferencia,156000.0,2026-03
+351,2026-08-26,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,104,Driver L298N,actuadores,14000.0,2,efectivo,28000.0,2026-08
+127,2026-03-06,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,105,Servomotor SG90,actuadores,12500.0,3,transferencia,37500.0,2026-03
+245,2026-08-22,1,Laura Gómez,Neiva,laura.gomez@correo.com,104,Driver L298N,actuadores,14000.0,4,tarjeta,56000.0,2026-08
+179,2026-06-11,4,Juan Torres,Neiva,juan.torres@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,tarjeta,33000.0,2026-06
+327,2026-08-21,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,1,nequi,11000.0,2026-08
+238,2026-06-29,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,4,tarjeta,44000.0,2026-06
+314,2026-04-21,1,Laura Gómez,Neiva,laura.gomez@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,transferencia,9500.0,2026-04
+249,2026-07-18,8,Diego Mora,Garzón,diego.mora@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,efectivo,33000.0,2026-07
+299,2026-08-17,3,Ana Rojas,Garzón,ana.rojas@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,3,tarjeta,24000.0,2026-08
+62,2026-08-12,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,105,Servomotor SG90,actuadores,12500.0,2,desconocido,25000.0,2026-08
+295,2026-03-16,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,104,Driver L298N,actuadores,14000.0,4,tarjeta,56000.0,2026-03
+94,2026-05-08,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,5,tarjeta,260000.0,2026-05
+341,2026-01-28,8,Diego Mora,Garzón,diego.mora@correo.com,106,Sensor TCRT5000,sensores,4500.0,1,tarjeta,4500.0,2026-01
+247,2026-07-18,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,tarjeta,114000.0,2026-07
+37,2026-07-13,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,104,Driver L298N,actuadores,14000.0,3,nequi,42000.0,2026-07
+41,2026-05-28,4,Juan Torres,Neiva,juan.torres@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,3,tarjeta,28500.0,2026-05
+161,2026-04-05,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,106,Sensor TCRT5000,sensores,4500.0,5,tarjeta,22500.0,2026-04
+328,2026-06-07,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,transferencia,9500.0,2026-06
+12,2026-04-15,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,5,efectivo,55000.0,2026-04
+145,2026-03-15,6,Andrés Silva,Neiva,andres.silva@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,2,efectivo,16000.0,2026-03
+290,2026-02-24,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,5,transferencia,47500.0,2026-02
+296,2026-08-19,8,Diego Mora,Garzón,diego.mora@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,2,tarjeta,22000.0,2026-08
+172,2026-07-31,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,106,Sensor TCRT5000,sensores,4500.0,5,transferencia,22500.0,2026-07
+128,2026-01-10,5,María Díaz,La Plata,maria.diaz@correo.com,104,Driver L298N,actuadores,14000.0,5,transferencia,70000.0,2026-01
+233,2026-05-06,5,María Díaz,La Plata,maria.diaz@correo.com,105,Servomotor SG90,actuadores,12500.0,5,efectivo,62500.0,2026-05
+185,2026-08-23,6,Andrés Silva,Neiva,andres.silva@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,2,efectivo,76000.0,2026-08
+47,2026-03-22,1,Laura Gómez,Neiva,laura.gomez@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,5,tarjeta,55000.0,2026-03
+315,2026-01-25,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,1,transferencia,11000.0,2026-01
+378,2026-05-24,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,2,tarjeta,76000.0,2026-05
+177,2026-01-15,1,Laura Gómez,Neiva,laura.gomez@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,transferencia,156000.0,2026-01
+232,2026-01-20,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,1,transferencia,38000.0,2026-01
+211,2026-01-09,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,3,efectivo,28500.0,2026-01
+129,2026-01-19,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,3,tarjeta,28500.0,2026-01
+144,2026-05-08,4,Juan Torres,Neiva,juan.torres@correo.com,104,Driver L298N,actuadores,14000.0,2,nequi,28000.0,2026-05
+8,2026-06-28,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,transferencia,114000.0,2026-06
+366,2026-01-30,4,Juan Torres,Neiva,juan.torres@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,4,efectivo,44000.0,2026-01
+265,2026-06-27,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,3,nequi,24000.0,2026-06
+319,2026-07-10,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,104,Driver L298N,actuadores,14000.0,4,efectivo,56000.0,2026-07
+180,2026-03-18,3,Ana Rojas,Garzón,ana.rojas@correo.com,105,Servomotor SG90,actuadores,12500.0,2,transferencia,25000.0,2026-03
+218,2026-01-01,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,3,tarjeta,28500.0,2026-01
+311,2026-02-13,8,Diego Mora,Garzón,diego.mora@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,2,tarjeta,22000.0,2026-02
+9,2026-08-06,5,María Díaz,La Plata,maria.diaz@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,4,tarjeta,208000.0,2026-08
+157,2026-02-28,4,Juan Torres,Neiva,juan.torres@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,4,tarjeta,32000.0,2026-02
+28,2026-04-18,1,Laura Gómez,Neiva,laura.gomez@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,4,tarjeta,38000.0,2026-04
+339,2026-06-19,1,Laura Gómez,Neiva,laura.gomez@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,1,tarjeta,52000.0,2026-06
+371,2026-08-22,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,104,Driver L298N,actuadores,14000.0,2,tarjeta,28000.0,2026-08
+59,2026-02-09,1,Laura Gómez,Neiva,laura.gomez@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,4,transferencia,32000.0,2026-02
+206,2026-04-18,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,nequi,19000.0,2026-04
+65,2026-08-19,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,nequi,33000.0,2026-08
+83,2026-01-18,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,106,Sensor TCRT5000,sensores,4500.0,1,tarjeta,4500.0,2026-01
+214,2026-08-25,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,2,efectivo,22000.0,2026-08
+269,2026-02-12,5,María Díaz,La Plata,maria.diaz@correo.com,104,Driver L298N,actuadores,14000.0,2,efectivo,28000.0,2026-02
+154,2026-01-26,6,Andrés Silva,Neiva,andres.silva@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,5,nequi,40000.0,2026-01
+49,2026-01-17,1,Laura Gómez,Neiva,laura.gomez@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,4,tarjeta,38000.0,2026-01
+209,2026-06-30,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,104,Driver L298N,actuadores,14000.0,4,nequi,56000.0,2026-06
+2,2026-05-07,3,Ana Rojas,Garzón,ana.rojas@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,4,transferencia,38000.0,2026-05
+275,2026-06-07,4,Juan Torres,Neiva,juan.torres@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,tarjeta,114000.0,2026-06
+281,2026-04-19,3,Ana Rojas,Garzón,ana.rojas@correo.com,106,Sensor TCRT5000,sensores,4500.0,3,tarjeta,13500.0,2026-04
+96,2026-08-16,3,Ana Rojas,Garzón,ana.rojas@correo.com,105,Servomotor SG90,actuadores,12500.0,4,efectivo,50000.0,2026-08
+268,2026-05-10,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,5,nequi,47500.0,2026-05
+117,2026-05-10,6,Andrés Silva,Neiva,andres.silva@correo.com,105,Servomotor SG90,actuadores,12500.0,3,transferencia,37500.0,2026-05
+46,2026-02-23,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,3,efectivo,24000.0,2026-02
+162,2026-02-26,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,105,Servomotor SG90,actuadores,12500.0,5,nequi,62500.0,2026-02
+338,2026-01-31,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,104,Driver L298N,actuadores,14000.0,2,transferencia,28000.0,2026-01
+118,2026-04-21,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,5,efectivo,190000.0,2026-04
+78,2026-01-15,3,Ana Rojas,Garzón,ana.rojas@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,1,efectivo,52000.0,2026-01
+331,2026-02-18,3,Ana Rojas,Garzón,ana.rojas@correo.com,104,Driver L298N,actuadores,14000.0,3,desconocido,42000.0,2026-02
+64,2026-05-08,4,Juan Torres,Neiva,juan.torres@correo.com,104,Driver L298N,actuadores,14000.0,5,nequi,70000.0,2026-05
+231,2026-07-15,6,Andrés Silva,Neiva,andres.silva@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,3,nequi,28500.0,2026-07
+187,2026-03-07,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,105,Servomotor SG90,actuadores,12500.0,3,efectivo,37500.0,2026-03
+284,2026-06-14,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,efectivo,19000.0,2026-06
+200,2026-06-18,5,María Díaz,La Plata,maria.diaz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,5,desconocido,47500.0,2026-06
+288,2026-02-23,3,Ana Rojas,Garzón,ana.rojas@correo.com,104,Driver L298N,actuadores,14000.0,3,transferencia,42000.0,2026-02
+122,2026-03-13,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,tarjeta,9500.0,2026-03
+30,2026-04-29,1,Laura Gómez,Neiva,laura.gomez@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,2,nequi,22000.0,2026-04
+365,2026-04-08,6,Andrés Silva,Neiva,andres.silva@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,5,efectivo,190000.0,2026-04
+159,2026-01-14,3,Ana Rojas,Garzón,ana.rojas@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,tarjeta,19000.0,2026-01
+86,2026-08-19,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,nequi,114000.0,2026-08
+226,2026-04-20,1,Laura Gómez,Neiva,laura.gomez@correo.com,104,Driver L298N,actuadores,14000.0,1,efectivo,14000.0,2026-04
+263,2026-06-30,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,1,tarjeta,11000.0,2026-06
+380,2026-01-24,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,tarjeta,19000.0,2026-01
+77,2026-07-20,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,4,nequi,44000.0,2026-07
+332,2026-07-31,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,5,nequi,260000.0,2026-07
+88,2026-01-13,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,105,Servomotor SG90,actuadores,12500.0,1,tarjeta,12500.0,2026-01
+18,2026-03-25,8,Diego Mora,Garzón,diego.mora@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,3,efectivo,28500.0,2026-03
+183,2026-03-05,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,104,Driver L298N,actuadores,14000.0,3,tarjeta,42000.0,2026-03
+106,2026-08-07,4,Juan Torres,Neiva,juan.torres@correo.com,106,Sensor TCRT5000,sensores,4500.0,1,tarjeta,4500.0,2026-08
+50,2026-06-22,5,María Díaz,La Plata,maria.diaz@correo.com,105,Servomotor SG90,actuadores,12500.0,2,efectivo,25000.0,2026-06
+235,2026-04-09,8,Diego Mora,Garzón,diego.mora@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,4,tarjeta,32000.0,2026-04
+337,2026-06-25,8,Diego Mora,Garzón,diego.mora@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,5,efectivo,40000.0,2026-06
+107,2026-08-24,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,105,Servomotor SG90,actuadores,12500.0,2,transferencia,25000.0,2026-08
+135,2026-04-23,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,105,Servomotor SG90,actuadores,12500.0,3,transferencia,37500.0,2026-04
+342,2026-08-19,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,104,Driver L298N,actuadores,14000.0,3,tarjeta,42000.0,2026-08
+227,2026-02-28,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,5,tarjeta,40000.0,2026-02
+191,2026-02-15,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,106,Sensor TCRT5000,sensores,4500.0,2,tarjeta,9000.0,2026-02
+374,2026-06-29,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,106,Sensor TCRT5000,sensores,4500.0,3,nequi,13500.0,2026-06
+283,2026-01-01,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,106,Sensor TCRT5000,sensores,4500.0,1,nequi,4500.0,2026-01
+170,2026-02-22,6,Andrés Silva,Neiva,andres.silva@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,1,efectivo,8000.0,2026-02
+181,2026-08-13,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,105,Servomotor SG90,actuadores,12500.0,5,transferencia,62500.0,2026-08
+101,2026-05-04,1,Laura Gómez,Neiva,laura.gomez@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,tarjeta,156000.0,2026-05
+210,2026-06-22,4,Juan Torres,Neiva,juan.torres@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,5,nequi,55000.0,2026-06
+136,2026-08-18,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,5,transferencia,40000.0,2026-08
+398,2026-02-21,8,Diego Mora,Garzón,diego.mora@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,4,tarjeta,208000.0,2026-02
+363,2026-07-11,8,Diego Mora,Garzón,diego.mora@correo.com,106,Sensor TCRT5000,sensores,4500.0,5,nequi,22500.0,2026-07
+199,2026-07-17,8,Diego Mora,Garzón,diego.mora@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,4,efectivo,208000.0,2026-07
+167,2026-04-18,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,transferencia,156000.0,2026-04
+396,2026-02-08,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,4,efectivo,32000.0,2026-02
+137,2026-05-01,8,Diego Mora,Garzón,diego.mora@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,2,tarjeta,76000.0,2026-05
+286,2026-03-19,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,transferencia,156000.0,2026-03
+132,2026-05-02,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,transferencia,9500.0,2026-05
+40,2026-02-28,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,5,transferencia,260000.0,2026-02
+216,2026-06-06,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,106,Sensor TCRT5000,sensores,4500.0,5,nequi,22500.0,2026-06
+44,2026-08-26,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,tarjeta,156000.0,2026-08
+55,2026-04-15,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,1,efectivo,38000.0,2026-04
+399,2026-07-03,8,Diego Mora,Garzón,diego.mora@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,1,nequi,8000.0,2026-07
+300,2026-04-24,8,Diego Mora,Garzón,diego.mora@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,2,nequi,76000.0,2026-04
+385,2026-05-20,3,Ana Rojas,Garzón,ana.rojas@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,2,efectivo,22000.0,2026-05
+305,2026-04-19,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,5,desconocido,260000.0,2026-04
+36,2026-06-11,4,Juan Torres,Neiva,juan.torres@correo.com,104,Driver L298N,actuadores,14000.0,1,nequi,14000.0,2026-06
+316,2026-02-20,6,Andrés Silva,Neiva,andres.silva@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,3,transferencia,28500.0,2026-02
+310,2026-01-26,5,María Díaz,La Plata,maria.diaz@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,1,tarjeta,38000.0,2026-01
+277,2026-06-17,3,Ana Rojas,Garzón,ana.rojas@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,1,efectivo,38000.0,2026-06
+125,2026-05-08,3,Ana Rojas,Garzón,ana.rojas@correo.com,104,Driver L298N,actuadores,14000.0,5,nequi,70000.0,2026-05
+143,2026-06-28,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,5,transferencia,260000.0,2026-06
+111,2026-04-18,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,1,tarjeta,11000.0,2026-04
+324,2026-03-30,5,María Díaz,La Plata,maria.diaz@correo.com,105,Servomotor SG90,actuadores,12500.0,1,efectivo,12500.0,2026-03
+333,2026-06-11,1,Laura Gómez,Neiva,laura.gomez@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,1,efectivo,52000.0,2026-06
+370,2026-03-08,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,104,Driver L298N,actuadores,14000.0,3,efectivo,42000.0,2026-03
+108,2026-06-10,3,Ana Rojas,Garzón,ana.rojas@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,transferencia,9500.0,2026-06
+13,2026-06-02,3,Ana Rojas,Garzón,ana.rojas@correo.com,106,Sensor TCRT5000,sensores,4500.0,5,tarjeta,22500.0,2026-06
+273,2026-05-31,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,104,Driver L298N,actuadores,14000.0,4,nequi,56000.0,2026-05
+48,2026-04-02,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,106,Sensor TCRT5000,sensores,4500.0,5,tarjeta,22500.0,2026-04
+204,2026-05-19,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,3,transferencia,24000.0,2026-05
+361,2026-05-16,1,Laura Gómez,Neiva,laura.gomez@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,5,tarjeta,190000.0,2026-05
+120,2026-07-08,8,Diego Mora,Garzón,diego.mora@correo.com,104,Driver L298N,actuadores,14000.0,5,efectivo,70000.0,2026-07
+22,2026-01-26,5,María Díaz,La Plata,maria.diaz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,4,efectivo,38000.0,2026-01
+84,2026-05-01,8,Diego Mora,Garzón,diego.mora@correo.com,106,Sensor TCRT5000,sensores,4500.0,5,nequi,22500.0,2026-05
+131,2026-04-10,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,2,nequi,22000.0,2026-04
+330,2026-01-20,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,105,Servomotor SG90,actuadores,12500.0,1,transferencia,12500.0,2026-01
+230,2026-04-09,8,Diego Mora,Garzón,diego.mora@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,nequi,19000.0,2026-04
+287,2026-04-05,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,104,Driver L298N,actuadores,14000.0,4,transferencia,56000.0,2026-04
+124,2026-05-28,8,Diego Mora,Garzón,diego.mora@correo.com,106,Sensor TCRT5000,sensores,4500.0,2,nequi,9000.0,2026-05
+34,2026-04-18,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,105,Servomotor SG90,actuadores,12500.0,2,tarjeta,25000.0,2026-04
+5,2026-08-02,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,105,Servomotor SG90,actuadores,12500.0,2,nequi,25000.0,2026-08
+20,2026-04-15,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,transferencia,156000.0,2026-04
+220,2026-05-31,8,Diego Mora,Garzón,diego.mora@correo.com,104,Driver L298N,actuadores,14000.0,3,nequi,42000.0,2026-05
+357,2026-02-16,4,Juan Torres,Neiva,juan.torres@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,4,tarjeta,208000.0,2026-02
+150,2026-05-07,3,Ana Rojas,Garzón,ana.rojas@correo.com,106,Sensor TCRT5000,sensores,4500.0,5,nequi,22500.0,2026-05
+225,2026-04-25,5,María Díaz,La Plata,maria.diaz@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,nequi,156000.0,2026-04
+248,2026-01-14,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,1,transferencia,52000.0,2026-01
+377,2026-03-30,8,Diego Mora,Garzón,diego.mora@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,efectivo,33000.0,2026-03
+152,2026-05-30,4,Juan Torres,Neiva,juan.torres@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,1,tarjeta,8000.0,2026-05
+318,2026-05-08,4,Juan Torres,Neiva,juan.torres@correo.com,104,Driver L298N,actuadores,14000.0,5,efectivo,70000.0,2026-05
+292,2026-01-16,1,Laura Gómez,Neiva,laura.gomez@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,nequi,114000.0,2026-01
+234,2026-01-27,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,104,Driver L298N,actuadores,14000.0,1,tarjeta,14000.0,2026-01
+11,2026-02-08,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,104,Driver L298N,actuadores,14000.0,1,efectivo,14000.0,2026-02
+280,2026-05-22,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,transferencia,114000.0,2026-05
+72,2026-08-16,8,Diego Mora,Garzón,diego.mora@correo.com,105,Servomotor SG90,actuadores,12500.0,1,efectivo,12500.0,2026-08
+253,2026-06-22,5,María Díaz,La Plata,maria.diaz@correo.com,106,Sensor TCRT5000,sensores,4500.0,4,desconocido,18000.0,2026-06
+93,2026-06-27,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,4,efectivo,208000.0,2026-06
+350,2026-01-17,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,105,Servomotor SG90,actuadores,12500.0,4,efectivo,50000.0,2026-01
+375,2026-07-04,3,Ana Rojas,Garzón,ana.rojas@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,nequi,33000.0,2026-07
+193,2026-06-19,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,nequi,9500.0,2026-06
+258,2026-04-05,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,106,Sensor TCRT5000,sensores,4500.0,1,nequi,4500.0,2026-04
+196,2026-03-01,4,Juan Torres,Neiva,juan.torres@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,5,nequi,260000.0,2026-03
+344,2026-02-23,3,Ana Rojas,Garzón,ana.rojas@correo.com,104,Driver L298N,actuadores,14000.0,2,tarjeta,28000.0,2026-02
+138,2026-01-10,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,tarjeta,33000.0,2026-01
+261,2026-03-19,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,4,nequi,38000.0,2026-03
+39,2026-03-14,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,4,nequi,152000.0,2026-03
+202,2026-07-06,3,Ana Rojas,Garzón,ana.rojas@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,1,tarjeta,38000.0,2026-07
+395,2026-01-17,3,Ana Rojas,Garzón,ana.rojas@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,4,transferencia,44000.0,2026-01
+291,2026-03-23,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,tarjeta,19000.0,2026-03
+190,2026-03-01,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,desconocido,156000.0,2026-03
+252,2026-04-30,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,106,Sensor TCRT5000,sensores,4500.0,4,efectivo,18000.0,2026-04
+113,2026-01-17,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,transferencia,19000.0,2026-01
+184,2026-06-02,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,5,nequi,47500.0,2026-06
+153,2026-07-14,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,106,Sensor TCRT5000,sensores,4500.0,5,nequi,22500.0,2026-07
+313,2026-01-08,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,4,tarjeta,32000.0,2026-01
+326,2026-07-07,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,3,efectivo,114000.0,2026-07
+192,2026-01-22,1,Laura Gómez,Neiva,laura.gomez@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,5,tarjeta,40000.0,2026-01
+45,2026-08-21,4,Juan Torres,Neiva,juan.torres@correo.com,104,Driver L298N,actuadores,14000.0,1,nequi,14000.0,2026-08
+276,2026-01-10,5,María Díaz,La Plata,maria.diaz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,transferencia,9500.0,2026-01
+7,2026-07-02,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,3,tarjeta,33000.0,2026-07
+251,2026-04-06,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,3,tarjeta,28500.0,2026-04
+312,2026-03-24,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,3,tarjeta,156000.0,2026-03
+76,2026-06-27,8,Diego Mora,Garzón,diego.mora@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,2,nequi,22000.0,2026-06
+1,2026-06-07,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,1,nequi,11000.0,2026-06
+392,2026-03-28,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,107,Protoboard 830 Puntos,accesorios,11000.0,4,tarjeta,44000.0,2026-03
+384,2026-07-19,9,Sofía Vargas,Neiva,sofia.vargas@correo.com,105,Servomotor SG90,actuadores,12500.0,3,efectivo,37500.0,2026-07
+69,2026-04-14,10,Camilo Reyes,La Plata,camilo.reyes@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,5,efectivo,47500.0,2026-04
+168,2026-07-06,8,Diego Mora,Garzón,diego.mora@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,1,nequi,52000.0,2026-07
+393,2026-04-23,7,Paula Ortiz,Pitalito,paula.ortiz@correo.com,104,Driver L298N,actuadores,14000.0,3,nequi,42000.0,2026-04
+219,2026-08-26,3,Ana Rojas,Garzón,ana.rojas@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,5,transferencia,40000.0,2026-08
+43,2026-02-18,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,103,Arduino Uno R3,microcontroladores,52000.0,4,nequi,208000.0,2026-02
+367,2026-02-11,3,Ana Rojas,Garzón,ana.rojas@correo.com,106,Sensor TCRT5000,sensores,4500.0,5,tarjeta,22500.0,2026-02
+346,2026-03-29,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,104,Driver L298N,actuadores,14000.0,2,transferencia,28000.0,2026-03
+73,2026-08-03,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,105,Servomotor SG90,actuadores,12500.0,1,tarjeta,12500.0,2026-08
+24,2026-02-09,6,Andrés Silva,Neiva,andres.silva@correo.com,104,Driver L298N,actuadores,14000.0,4,desconocido,56000.0,2026-02
+186,2026-03-11,2,Carlos Pérez,Pitalito,carlos.perez@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,tarjeta,9500.0,2026-03
+349,2026-03-09,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,5,tarjeta,47500.0,2026-03
+104,2026-06-13,8,Diego Mora,Garzón,diego.mora@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,2,tarjeta,19000.0,2026-06
+212,2026-07-05,12,Felipe Ramos,Pitalito,felipe.ramos@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,desconocido,9500.0,2026-07
+68,2026-05-10,6,Andrés Silva,Neiva,andres.silva@correo.com,101,Sensor Ultrasónico HC-SR04,sensores,9500.0,1,tarjeta,9500.0,2026-05
+26,2026-04-29,5,María Díaz,La Plata,maria.diaz@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,4,desconocido,32000.0,2026-04
+197,2026-01-20,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,108,Kit De Cables Dupont,accesorios,8000.0,1,efectivo,8000.0,2026-01
+176,2026-03-13,11,Valentina Cruz,Neiva,valentina.cruz@correo.com,102,ESP32 Devkit 30 Pines,microcontroladores,38000.0,2,transferencia,76000.0,2026-03

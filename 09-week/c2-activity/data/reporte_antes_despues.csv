@@ -1,0 +1,6 @@
+,antes,después,cambio
+filas,425,395,-30
+columnas,12,12,0
+nulos_totales,127,0,-127
+duplicados_exactos,25,0,-25
+duplicados_por_order_id,25,0,-25
