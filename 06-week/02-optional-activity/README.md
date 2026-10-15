@@ -187,19 +187,3 @@ CREATE TABLE siembra (
 
 **Ejemplo concreto:** si la unidad estuviera en `SENSOR`, cada sensor de temperatura repetiría "°C"; un error de escritura ("C°", "celsius") rompería la consistencia. Con `TIPO_SENSOR`, la unidad se guarda una sola vez y se cambia en un solo lugar.
 
----
-
-## Entrega
-
-```
-06-week/
-└── README.md
-```
-
-```bash
-git add .
-git commit -m "Entrega semana 06"
-git push
-```
-
-> Recuerda tener tu repo de perfil con el bloque CONFIG (`FULL_NAME` = Cristian Camilo Quiguanas Ossa y `GITHUB_USER` = tu usuario de GitHub).
