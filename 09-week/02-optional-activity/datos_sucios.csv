@@ -1,0 +1,67 @@
+id_lectura,invernadero,variable,valor,unidad,fecha_hora
+28,Tomates,Humedad,74.6,,2026-10-14 13:00:00
+3,Tomates,temp,28.4,°C,2026-10-14 08:00:00
+42,Lechugas,LUZ,579.2,lux,2026-10-14 07:00:00
+59,Lechugas,Humedad,71.0,%,2026-10-14 14:00:00
+19,Tomates,Luz,-999,lux,2026-10-14 14:00:00
+52,Lechugas,Humedad,71.7,%,2026-10-14 07:00:00
+54,Lechugas,Humedad,76.5,%,2026-10-14 09:00:00
+18,,Luz,658.2,lux,2026-10-14 13:00:00
+34,Lechugas,temp,29.1,°C,2026-10-14 09:00:00
+49,Lechugas,Luz,581.6,lux,2026-10-14 14:00:00
+32,Lechugas,Temperatura,26.6,°C,2026-10-14 07:00:00
+16, tomates ,Luz,779.6,lux,2026-10-14 11:00:00
+22,TOMATES,Humedad,71.1,%,2026-10-14 07:00:00
+37,Lechugas,Temperatura,29.3,°C,14/10/2026 12:00
+21,Tomates,Humedad,67.9,%,2026-10-14 06:00:00
+14,Tomates,Luz,N/A,lux,2026-10-14 09:00:00
+49,LECHUGAS,luz,581.6,lux,2026-10-14 14:00:00
+30,Tomates,Humedad,,%,2026-10-14 15:00:00
+33,Lechugas,Temperatura,28.1,°C,2026-10-14 08:00:00
+11,Tomates,Luz,465.4,,2026-10-14 06:00:00
+46,Lechugas,Luz,798.5,lux,2026-10-14 11:00:00
+13,TOMATES,Luz,676.1,lux,2026-10-14 08:00:00
+23,Tomates,HUMEDAD,75.0,%,2026-10-14 08:00:00
+51, lechugas ,Humedad,68.1,%,2026-10-14 06:00:00
+38,Lechugas,Temperatura,28.0,°C,2026-10-14 13:00:00
+2,Tomates,TEMPERATURA,26.5,°C,2026-10-14 07:00:00
+17,Tomates,Luz,759.6,lux,14/10/2026 12:00
+41,Lechugas,Luz,463.0,lux,2026-10-14 06:00:00
+50,Lechugas,Luz,,lux,2026-10-14 15:00:00
+31,LECHUGAS,Temperatura,25.5,°C,2026-10-14 06:00:00
+41,Lechugas,Luz,463.0,lux,2026-10-14 06:00:00
+56,Lechugas,Humedad,77.5,%,2026-10-14 11:00:00
+36, lechugas ,Temperatura,30.2,°C,2026-10-14 11:00:00
+53,Lechugas,Humedad,73.7,,2026-10-14 08:00:00
+57,Lechugas,Humedad,76.5,%,14/10/2026 12:00
+10,Tomates,Temperatura,,°C,2026-10-14 15:00:00
+35,Lechugas,Temperatura,"30,1",°C,2026-10-14 10:00:00
+44,Lechugas,Luz,N/A,lux,2026-10-14 09:00:00
+25,Tomates,Humedad,"77,6",%,2026-10-14 10:00:00
+6, tomates ,Temperatura,29.6,°C,2026-10-14 11:00:00
+21,Tomates,Humedad,67.9,%,2026-10-14 06:00:00
+7,Tomates,Temperatura,29.4,°C,14/10/2026 12:00
+12,Tomates,LUZ,583.3,lux,2026-10-14 07:00:00
+1,Tomates,Temperatura,25.1,°C,2026-10-14 06:00:00
+45,LECHUGAS,Luz,796.7,lux,2026-10-14 10:00:00
+8,TOMATES,Temperatura,28.1,°C,2026-10-14 13:00:00
+5,Tomates,Temperatura,"29,4",°C,2026-10-14 10:00:00
+39,Lechugas,Temperatura,-999,°C,2026-10-14 14:00:00
+60,Lechugas,Humedad,68.5,%,2026-10-14 15:00:00
+56,Lechugas,Humedad,77.5,%,2026-10-14 11:00:00
+27,Tomates,Humedad,76.9,%,14/10/2026 12:00
+43,Lechugas,Luz,663.3,lux,2026-10-14 08:00:00
+47,Lechugas,Luz,768.4,lux,14/10/2026 12:00
+24,TOMATES,humedad,76.6,%,2026-10-14 09:00:00
+9,Tomates, temperatura,26.7,°C,2026-10-14 14:00:00
+1,Tomates,Temperatura,25.1,°C,2026-10-14 06:00:00
+15,Tomates,Luz,"802,9",lux,2026-10-14 10:00:00
+58,Lechugas,Humedad,,%,2026-10-14 13:00:00
+29,Tomates, humedad,71.6,%,2026-10-14 14:00:00
+40,Lechugas,Temperatura,25.2,°C,sin fecha
+24,Tomates,Humedad,76.6,%,2026-10-14 09:00:00
+20,Tomates,Luz,,lux,2026-10-14 15:00:00
+4,TOMATES,Temperatura,29.6,°C,2026-10-14 09:00:00
+55,Lechugas,Humedad,"77,6",%,2026-10-14 10:00:00
+26, tomates ,Humedad,77.7,%,2026-10-14 11:00:00
+48,,Luz,678.9,lux,2026-10-14 13:00:00
