@@ -1,0 +1,24 @@
+// ============================================================
+// Problema 3b: Medidas DAX (modelo: tabla Ventas + tabla Calendario)
+// Ventas[Monto], Ventas[Fecha] relacionada con Calendario[Fecha]
+// ============================================================
+
+// MEDIDA 1: Total de ventas (base de las demás medidas)
+Total Ventas = SUM ( Ventas[Monto] )
+
+// MEDIDA 2: % del total
+// Numerador: total del contexto actual (categoría, mes, etc.)
+// Denominador: total general, quitando los filtros con ALL
+// DIVIDE evita el error de división entre cero
+% del Total =
+DIVIDE (
+    [Total Ventas],
+    CALCULATE ( [Total Ventas], ALL ( Ventas ) )
+)
+
+// EXTRA (comparación entre periodos): requiere Calendario marcada como tabla de fechas
+Ventas Año Anterior =
+CALCULATE ( [Total Ventas], SAMEPERIODLASTYEAR ( Calendario[Fecha] ) )
+
+Variación vs Año Anterior % =
+DIVIDE ( [Total Ventas] - [Ventas Año Anterior], [Ventas Año Anterior] )
